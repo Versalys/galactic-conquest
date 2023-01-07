@@ -1,0 +1,25 @@
+Todo: Create function that takes in screen position and coordinates, and outputs coordinates to the screen.
+      Literally just an offset from some origin.
+
+      To create dragging mechanism, will have to configure mouse to click and drag non objects.
+
+      Create a function for drawing decorations and borders (I could also just stop
+      	     when the camera reaches boarders).
+
+      Implement Cruiser
+      		- boilerplate for all starship code
+		- Create movement
+		- Create attacking mechanism
+
+      Create GUI containing movement, resources, and mothership
+      	     health (or just available when you click on mother)
+
+      Create shops/spawning mechanism
+
+      Implement Miner
+
+      Implement Mothership
+
+      Implement Rest of ships
+
+      Create more balanced, intelligent map gen
